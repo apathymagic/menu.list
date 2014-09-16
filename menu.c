@@ -45,7 +45,7 @@ static tDataNode head[] =
 };
 
 main()
-{
+{    
    /* cmd line begins */
     while(1)
     {
@@ -66,7 +66,7 @@ main()
    
     }
 }
-
+  
 int Help()
 {
     ShowAllCmd(head);
